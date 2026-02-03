@@ -1,0 +1,1 @@
+This is a practice landing page for utilizing basic CSS and flex skills.
